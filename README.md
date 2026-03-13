@@ -1,8 +1,8 @@
 # Hi, I'm Vivin 👋
 
 Python Backend Engineer | APIs • Databases • System Design  
-Open-Source Enthusiast | Research-Oriented Developer  
-MSc Advanced Computer Science – University of Sheffield
+Open-Source Enthusiast | Research-Driven Developer  
+MSc Advanced Computer Science, University of Sheffield
 
 I build backend systems in Python with a focus on **API design, database-driven applications and scalable system architecture**. My work focuses on writing reliable services that handle real-world data, edge cases and failure scenarios gracefully.
 
