@@ -1,4 +1,4 @@
-# Hi, I'm Vivin 👋
+# Hi, I'm Vivin Anitha Thambidurai👋
 
 Python Backend Engineer | APIs • Databases • System Design  
 Open-Source Enthusiast | Research-Driven Developer  
