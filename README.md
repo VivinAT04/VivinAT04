@@ -17,6 +17,7 @@ I am currently developing production-style backend projects while deepening my k
 - Interested in distributed systems and backend architecture
 - Contributor to backend systems involving FastAPI and SQL databases
 - Passionate about clean architecture and reliable systems
+- Member of GDSC
 
 I enjoy designing systems that work **not only when everything is perfect, but also when things go wrong.**
 
